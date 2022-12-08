@@ -122,11 +122,8 @@ We are currently in a beta phase in which you will need to create your own profi
 Our [Welcome Corner](https://groups.community.sap.com/t5/welcome-corner/gh-p/welcome-corner) is for everyone to get to know each other. Say Hi 👋🏽 to your fellow community members and reply to [this thread](https://groups.community.sap.com/t5/welcome-corner-discussions/sap-community-where-are-you-from/m-p/5433) where you are from.
 
 
-
-### Questions & Answers
-
-
 ### Q&A
+
 
 The [Q&A area](https://answers.sap.com/index.html) includes all the questions asked in the community on a daily basis. If you have a question, you can ask the community for help or you can see if someone asked something similar before, as the solution may already be available. If you are an expert who wants to share your knowledge and help others, you can see what kind of questions members ask. Multiple filter options can allow you to focus on your area(s) of interest.
 
