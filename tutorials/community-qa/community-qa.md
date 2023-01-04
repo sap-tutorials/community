@@ -21,7 +21,7 @@ This tutorial is version number 01.2023.001
 
 SAP Community wants to create a valuable store of knowledge and it is our goal to provide content to our members in the form of advice, support, and guidance. The creation of such a reliable place is amongst other factors heavily dependent on questions, how they are asked and answered -- and this is why you are here.
 
-In this tutorial, you will get to know the Q&A section, processes and guidelines. Ultimately, it will help you to prepare questions that draw more precise and helpful responses from our members and teach you how to easily gain - and share - knowledge in SAP Community. You will also earn the Q&A Savvy badge!
+In this tutorial, you will get to know the Q&A section, processes and guidelines. Ultimately, it will help you to prepare questions that draw more precise and helpful responses from our members and teach you how to easily gain - and share - knowledge in SAP Community. You will also earn the Q&A Savvy badge! 
 
 ### Browse for questions in the SAP Community
 
