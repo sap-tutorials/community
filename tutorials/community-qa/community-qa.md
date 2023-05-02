@@ -17,7 +17,7 @@ primary_tag: topic>sap-community
 - What to do after you asked your question
 
 ## Intro
-This tutorial is version number 04.2023.001
+This tutorial is version number 05.2023.001
 
 SAP Community wants to create a valuable store of knowledge and it is our goal to provide content to our members in the form of advice, support, and guidance. The creation of such a reliable place is amongst other factors heavily dependent on questions, how they are asked and answered -- and this is why you are here.
 
@@ -125,7 +125,7 @@ Visit the [Missions and Badges](https://community.sap.com/resources/missions-bad
 
 We prepared an exercise for you to take and ask your very own first question in the SAP Community!
 
-In order for you to receive the Q&A Savvy badge and finish the Q&A Tutorial, please use [this template] (https://answers.sap.com/questions/ask.html?primaryTagId=&topics=submityourquestionnow&question=This%20is%20my%20question%20exercise%20as%20part%20of%20the%20SAP%20Community%20Q%26A%20Tutorial%20%0A%0A&b=%0A%3Cp%3E%20This%20is%20my%20very%20first%20question%20that%20I%20am%20taking%20in%20%5BMONTH%2FYEAR%5D.%3C%2Fli%3E%0A%3C%2Fol%3E%0A%3Cp%3EThis%20question%20is%20part%20of%20the%20SAP%20Community%20Q%26A%20Tutorial.%20I%20am%20working%20on%20version%20number%20%5BXYZ%5D.%3C%2Fli%3E%0A%3C%2Fol%3E%0A%3Cp%3EI%20selected%20the%20SAP%20Community%20Tutorial%20Exercises%20tag%20as%20the%20most%20appropriate%20SAP%20Managed%20Tag%20for%20this%20question%20exercise.%20%3C%2Fli%3E%0A%3C%2Fol%3E%0A%3Cp%3EHave%20a%20look%20at%20the%20Q%26A%20Tutorial%20in%20SAP%20Community%3A%20https%3A%2F%2Fdevelopers.sap.com%2Ftutorials%2Fcommunity-qa.html.%20) and submit your question. Please choose "SAP Community Tutorial Exercises" as SAP managed tag when you submit your question. A SAP Community moderator will respond to your question with an answer and will ask you to accept this answer as "Best Answer".
+In order for you to receive the Q&A Savvy badge and finish the Q&A Tutorial, please use [this template] (https://answers.sap.com/questions/ask.html?primaryTagId=&topics=submityourquestionnow&question=This%20is%20my%20question%20exercise%20as%20part%20of%20the%20SAP%20Community%20Q%26A%20Tutorial%20%0A%0A&b=%0A%3Cp%3E%20This%20is%20my%20very%20first%20question%20that%20I%20am%20taking%20in%20%5BMONTH%2FYEAR%5D.%3C%2Fli%3E%0A%3C%2Fol%3E%0A%3Cp%3EThis%20question%20is%20part%20of%20the%20SAP%20Community%20Q%26A%20Tutorial.%20I%20am%20working%20on%20version%20number%20%5BXYZ%5D.%3C%2Fli%3E%0A%3C%2Fol%3E%0A%3Cp%3EI%20selected%20the%20SAP%20Community%20Tutorial%20Exercises%20tag%20as%20the%20most%20appropriate%20SAP%20Managed%20Tag%20for%20this%20question%20exercise.%20%3C%2Fli%3E%0A%3C%2Fol%3E%0A%3Cp%3EHave%20a%20look%20at%20the%20Q%26A%20Tutorial%20in%20SAP%20Community%3A%20https%3A%2F%2Fdevelopers.sap.com%2Ftutorials%2Fcommunity-qa.html.%20) and submit your question. Please choose "SAP Community Tutorial Exercises" as SAP managed tag when you submit your question, and make sure to correct the MONTH/YEAR and replace XYZ with the correct version number (which you'll find in the introduction to this tutorial). An SAP Community moderator will respond to your question with an answer and will ask you to accept this answer as "Best Answer."
 
 After you accepted the answer, you will be given an individual code to enter into the field below. When you completed all the necessary steps of Step 7, you will get a notification that you earned this badge:
 
