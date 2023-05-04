@@ -26,7 +26,7 @@ In this tutorial, you will get to know the Q&A section, processes and guidelines
 ### Browse for questions in the SAP Community
 
 
-SAP Community is a rich resource of information, containing years' worth of discussions. So before asking a question, you should search first -- as the answer to your question may already be available.
+SAP Community is a rich resource of information, containing years' worth of discussions. So before asking a question, you should search first -- as the answer to your question may already be available. 
 
 1. Visit our SAP Community Homepage and click into the demonstrated red highlighted rectangle. This will pre-filter the category type "Q&A" for you and you reach a page with an overview of all questions.
     ![Screenshot_hompage1](Screenshot_homepage1.png)
