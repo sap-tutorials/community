@@ -9,7 +9,7 @@ primary_tag: topic>sap-community
 ---
 
 # Ask and Answer Questions on SAP Community
-<!-- description --> Get to know the Q&A section and learn how to ask great questions -- that get you the information you need and help the community at the same time.
+<!-- description --> Get to know the Q&A section and learn how to ask great questions -- that get you the information you need and help the community at the same time. 
 
 ## You will learn
 - How to prepare your question
