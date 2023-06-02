@@ -56,7 +56,7 @@ You can also react to answers that were given by community members, for example 
 
 If searching doesn't yield the answer you need, then you'll want to ask a question yourself. The [Ask a Question](https://answers.sap.com/questions/ask.html) page includes several fields that you need to fill out before submitting, as well as some helpful advice for asking good questions.
 
-Before asking a question, you should familiarize yourself with the SAP Community [Rules of Engagement](https://community.sap.com/resources/rules-of-engagement). The rules explain the etiquette that you should follow when interacting with other community members. They also outline which content is considered unacceptable.
+Before asking a question, you should familiarize yourself with the SAP Community [Rules of Engagement](https://community.sap.com/resources/rules-of-engagement). The rules explain the etiquette that you should follow when interacting with other community members. They also outline which content is considered unacceptable. 
 
 You should take these rules into account before you post your question.
 
