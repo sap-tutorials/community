@@ -32,7 +32,7 @@ primary_tag: topic>sap-community
 ### Access your profile
 
 
-Once you're logged in, the easiest way to check your profile is by clicking on your avatar and select **Manage My Account** in the dropdown. You can also access your profile at any time by going directly to [people.sap.com](https://people.sap.com/).
+Once you're logged in, the easiest way to check your profile is by clicking on your avatar and select **My Account** in the dropdown. You can also access your profile at any time by going directly to [people.sap.com](https://people.sap.com/).
 
 <!-- border -->![Avatar_Dropdown](Avatar_Dropdown.png)
 
@@ -93,7 +93,7 @@ To fill out your profile, select [Personal Info](https://people.sap.com/#persona
 
 <!-- border -->![Personal_Data](Personal_Data.png)
 
-If you haven't already, take a few moments to enter a bio in the **About me** field found within the **Personal data** area. Flesh out the rest of your profile by selecting the languages you speak (from the **Languages** pulldown in the **Personal data** area), filling in the **Elsewhere** fields (providing links to your accounts on social media and LinkedIn, for example), and sharing your **Expertise**.
+If you haven't already, take a few moments to enter a bio in the **About me** field found within the **Personal data** area. Flesh out the rest of your profile by selecting the languages you speak (from the **Languages** pulldown in the **Personal data** area), filling in the **Elsewhere** fields (providing URLs for your accounts on social media and LinkedIn, for example), and sharing your **Expertise**.
 
 Make sure to save when you're finished.
 
@@ -105,7 +105,7 @@ Take a look at the rest of the [Personal Info](https://people.sap.com/#personal_
 ### Get to know your privacy settings
 
 
-As covered in Step 1 of the [Tour the SAP Community](community-start) tutorial, in order to participate fully in the SAP Community, you need to set your account [Privacy](https://people.sap.com/#privacy) settings -- found under **Account & Settings** -- to opt in to display your profile publicly.
+As covered in Step 2 of the [Tour the SAP Community](community-start) tutorial, in order to participate fully in the SAP Community, you need to set your account [Privacy](https://people.sap.com/#privacy) settings -- found under **Account & Settings** -- to opt in to display your profile publicly.
 
 <!-- border -->![Privacy](Privacy.png)
 
@@ -117,15 +117,13 @@ In the [Public visibility](https://people.sap.com/#privacy:public_visibility) ta
 ### Set up your communications
 
 
-By going to the [Communications](https://people.sap.com/#communications) sub-section, accessible under **Account & Settings**, you can personalize which information you receive from SAP. For SAP Community members, this sub-section gives you the ability to determine which notification types you receive and how -- either via email or directly in your profile **Inbox** or both.
+By going to the [Communications](https://people.sap.com/#communications) sub-section, accessible under **Account & Settings**, you can personalize which information you receive from SAP. For SAP Community members, this sub-section gives you the ability to determine which community notification types you receive and how -- either via email or directly in your profile **Inbox** or both. You can turn these various notifications on and off as often as you wish, and you can select the language used in the notification messages. 
 
 >For more about your **Inbox**, see **Step 17**.
 
 <!-- border -->![Communications](Communications.png)
 
 Notifications are a great way for you to keep track of -- and interact with -- the content that interests you most. For example, if you want to know about new posts and replies related to tags and content you follow, you can set up notifications that give you a heads-up whenever something new is published.
-
-You can turn various notifications on and off as often as you wish, but for some notification types, **Inbox** notifications are locked by default for all members -- meaning you can't opt out of them. You can choose not to receive them via email, but you will always receive them in your inbox, with no way of turning them off. That's because these notifications contain important information -- such as updates from moderators -- that members need to see. In fact, you should consider setting up to receive them as email notifications as well, and make sure that you opt in to receive direct messages, so you never miss important communications!
 
 Take a few moments to familiarize yourself with the notification options.
 
@@ -145,7 +143,7 @@ The [Profile Linking](https://people.sap.com/#profile_linking) sub-section inclu
 ### Access and change login settings
 
 
-The [Login Settings](https://people.sap.com/#login_settings) sub-section under **Account & Settings** allows you to review your user name, associated account e-mail, and User-ID. Here you can also change your password. This sub-section also shows your linked social account(s).
+The [Login Settings](https://people.sap.com/#login_settings) sub-section under **Account & Settings** allows you to review your user name, associated account e-mail, and User ID. Here you can also change your password. This sub-section also shows your linked social account(s).
 
 >Note that, depending on your membership or employment, you may not be able to change your password here.
 
@@ -168,7 +166,11 @@ Take a few moments to bookmark content -- and to get to know the [Bookmarks](htt
 ### Access content you've created
 
 
-The [Content](https://people.sap.com/#content) sub-section, found under **Content & Following**, shows you all the content you've created -- including blog posts, questions, answers, Coffee Corner discussions, comments, and (for community veterans!) documents. Within this section, you have various options for filtering, sorting, and searching this content.
+The [Content](https://people.sap.com/#content) sub-section, found under **Content & Following**, shows you all the content you've created -- including blog posts, questions, answers, and comments. 
+
+>Note that the links to Coffee Corner Conversations no longer point to these older threads. Instead, they redirect to the Coffee Corner area within the [SAP Community Groups site](https://groups.community.sap.com/t5/coffee-corner/gh-p/Coffee-Corner). 
+
+Within this sub-section, you have various options for filtering, sorting, and searching this content.
 
 <!-- border -->![Overall_Content](Overall_Content.png)
 
@@ -212,11 +214,11 @@ Check out the **Sort by:** dropdowns in your [following](https://people.sap.com/
 ### Review your reputation
 
 
-The **Reputation** section of your profile consists of two sub-sections: [Snapshot](https://people.sap.com/#snapshot) and [Missions](https://people.sap.com/#missions). The **Missions** sub-section, in turn, is broken into two tabs: [Available Missions](https://people.sap.com/#missions:available) and [Earned Missions](https://people.sap.com/#missions:earned).
+The **Reputation** section of your profile consists of two sub-sections: [Snapshot](https://people.sap.com/#snapshot), [Missions](https://people.sap.com/#missions), and [History](https://people.sap.com/#history). The **Missions** sub-section, in turn, is broken into two tabs: [Available Missions](https://people.sap.com/#missions:available) and [Earned Missions](https://people.sap.com/#missions:earned).
 
 <!-- border -->![Missions](Missions.png)
 
-Familiarize yourself with the sub-sections and tabs within the **Reputation** section,
+Familiarize yourself with the sub-sections and tabs within the **Reputation** section.
 
 
 
@@ -263,8 +265,7 @@ When viewing a profile for someone you don't follow, you'll have the option to c
 
 Take a few minutes to view other profiles. Follow some new members. Send a message to say hello to the members who follow you. Use the profile options to build your SAP Community network!
 
+Congratulations! You're now savvy about your SAP profile ([people.sap.com](https://people.sap.com/)).
 
 
 ---
-
-Congratulations! You're now savvy about your SAP profile ([people.sap.com](https://people.sap.com/)).
