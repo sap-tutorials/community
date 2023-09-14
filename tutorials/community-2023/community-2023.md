@@ -9,10 +9,10 @@ author_profile: https://github.com/lenastodal
 --- 
 
 # Tour the SAP Community 2023
-<!-- description --> Explore the various features of SAP Community, get to know new Groups, and discover how to get the most out of your membership.
+<!-- description --> Explore the various features of SAP Community, get to know the Groups platform, and discover how to get the most out of your membership.
 
 ## Prerequisites
- - Please ensure that you have an SAP user account and profile. (If you don't, [register for an account](https://accounts.sap.com/ui/public/showRegisterForm?spName=https%3A%2F%2Fhana.ondemand.com%2Fskywalker)).
+ - Please ensure that you have an SAP user account and profile. (If you don't, [register for an account](https://accounts.sap.com/ui/public/showRegisterForm?spName=https%3A%2F%2Fhana.ondemand.com%2Fskywalker).)
  - Go to [SAP Community](https://community.sap.com) and log in before starting this tutorial.
 
 ## You will learn
@@ -21,7 +21,7 @@ author_profile: https://github.com/lenastodal
   - how to engage with your fellow SAP Community members
 
 ## Intro
-Welcome to SAP Community! This tutorial will help you to get started and provides an overview about various SAP Community features, areas and offerings. 
+Welcome to SAP Community! This tutorial will help you to get started and provides an overview about various SAP Community features, areas, and offerings. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/do_UT5NqAO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -34,7 +34,7 @@ With the completion of this tutorial, you will receive the Tour the SAP Communit
 ### SAP Community Homepage
 
 
-Within this first step, you will be guided through the entry point of [SAP Community](https://community.sap.com), our homepage and will find out what it has to offer. SAP Community is a place for members to engage and build influence, make meaningful connections, share insights and knowledge, and develop a personal reputation in an inclusive and supportive way.
+Within this first step, you will be guided through the entry point of [SAP Community](https://community.sap.com), our homepage, and will find out what it has to offer. SAP Community is a place for members to engage and build influence, make meaningful connections, share insights and knowledge, and develop a personal reputation in an inclusive and supportive way.
 
 In the following, you will get an overview of the SAP Community homepage. 
 
@@ -44,15 +44,15 @@ In the following, you will get an overview of the SAP Community homepage.
 ### Your Profile
 
 
-We want you to be an integrated part of our community, so that you can contribute and connect with other members. In order to participate fully, you need to set your profile public (via your account privacy settings). If you don't, you will still be able to read SAP Community content, but you will miss out on engaging with others and on publishing content. Learn more under [Privacy - FAQ](https://community.sap.com/resources/privacy).
+We want you to be an integrated part of our community, so that you can contribute and connect with other members. In order to participate fully, you need to set your profile public (via your account privacy settings). If you don't, you will still be able to read SAP Community content, but you will miss out on engaging with others and on publishing content. Learn more under [Privacy - FAQs](https://community.sap.com/resources/privacy).
 
-1. Go to your people.sap.com profile **Dashboard** (accessible by clicking your avatar in the upper right and using the **My Account** feature)
+1. Go to your people.sap.com profile **Dashboard** (accessible by clicking your avatar in the upper right and using the **My Account** feature).
 
-2. Select **Privacy** (found under **Account & Settings** on the left-hand side)
+2. Select **Privacy** (found under **Account & Settings** on the left-hand side).
 
-3. Make sure that **I want my profile to be visible to the public** is switched to **Allow**
+3. Make sure that **I want my profile to be visible to the public** is switched to **Allow**.
 
-4. Click **View your public profile** (A little hint: remember that step, as you will be asked later to share your public profile link with us)
+4. Click **View your public profile**. (A little hint: remember that step, as you will be asked later to share your public profile link with us.)
 
   ![profile_public](profile_public.png)
 
@@ -106,28 +106,21 @@ Be one of our **Featured Contributors**! On a regular basis, the SAP Community t
 
 ### Groups
 
-[Groups](https://groups.community.sap.com/t5/groups/ct-p/groups) offer a place for connecting, sharing, and engaging with others on a particular topic or interest. It is an environment for one-on-one conversations and direct exchanges where you can participate in discussions, share your experience, get guidance and advice from fellow SAP Community members and much more.
+[Groups](https://groups.community.sap.com/t5/groups/ct-p/groups) offer a place for connecting, sharing, and engaging with others on a particular topic or interest. It is an environment for one-on-one conversations and direct exchanges where you can participate in discussions, share your experience, get guidance and advice from fellow SAP Community members, and much more. 
 
-To get full insights on the features in Groups, watch this video.
+You will need to create your own profile for Groups. Group members may participate in discussions and events, publish content, comment on existing posts, and connect with community members interested in similar topics or interests. [Learn more](https://groups.community.sap.com/t5/help/faqpage/title/howregister_email_verify_not_required) about signing up and participating.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtvehwHwpc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-We are currently in a beta phase in which you will need to create your own profile for Groups. Group members may participate in discussions and events, publish content, comment on existing posts, and connect with community members interested in similar topics or interests. Learn more [detailed information](https://groups.community.sap.com/t5/help/faqpage/title/howregister_email_verify_not_required).
-
-There are different types of groups to explore: 
-
-  ![group_types](group_types.png)
-
+There are different types of groups to explore, such as: 
+ 
 - [Locations](https://groups.community.sap.com/t5/location/ct-p/location): Connect and collaborate with local peers in your regional SAP Community group in cities from across Asia, the Americas, Europe, and the Middle East and Africa. Participate in discussions, get informed, share, and learn about local events. 
 
 - [Activities](https://groups.community.sap.com/t5/activities/ct-p/activities): Join discussions, share your thoughts, connect with peers, and find key information all year about Devtoberfest, SAP TechEd, and SAP CodeJams. 
 
 - [Interests](https://groups.community.sap.com/t5/interests/ct-p/interests): From Application Development to Enterprise Architecture, Career Corner to Coffee Corner, SAP Women in Tech to SAP Builders, find a group and join the discussion. 
 
-By joining the [Career Corner](https://groups.community.sap.com/t5/career-corner/gh-p/career-corner) you can foster great talent and advance careers. The Career Corner is a great place to share and explore job opportunities, success stories, and details about learning journeys and certifications. Find out how to get started in the Career Corner by reading this [blog post](https://groups.community.sap.com/t5/career-corner-blog-posts/how-to-get-started-in-career-corner/ba-p/125021). 
+By joining the [Career Corner](https://groups.community.sap.com/t5/career-corner/gh-p/career-corner), you can foster great talent and advance careers. The Career Corner is a great place to share and explore job opportunities, success stories, and details about learning journeys and certifications. Find out how to get started in the Career Corner by reading this [blog post](https://groups.community.sap.com/t5/career-corner-blog-posts/how-to-get-started-in-career-corner/ba-p/125021). 
 
-Our [Welcome Corner](https://groups.community.sap.com/t5/welcome-corner/gh-p/welcome-corner) is for everyone to get to know each other. Say Hi 👋🏽 to your fellow community members and reply to [this thread](https://groups.community.sap.com/t5/welcome-corner-discussions/sap-community-where-are-you-from/m-p/5433) where you are from. 
+Our [Welcome Corner](https://groups.community.sap.com/t5/welcome-corner/gh-p/welcome-corner) is for everyone to get to know each other. Say Hi 👋🏽 to your fellow community members and reply to [this thread](https://groups.community.sap.com/t5/welcome-corner-discussions/sap-community-where-are-you-from/m-p/5433) by letting us know where you are from. 
 
 
 ### Q&A
@@ -147,9 +140,9 @@ To get full insights into the features of Q&A, watch this video.
 
 2.	Click the green **Follow** button (on the left-hand side).  
 
-When you follow a question, activities related to the question, such as comments and/or answers will appear in your [Activity Stream](https://activities.sap.com/). 
+When you follow a question, activities related to the question, such as comments and/or answers, will appear in your [Activity Stream](https://activities.sap.com/). 
 
-> Keep in mind: To ensure harmonious interactions amongst each other, it is important to understand the SAP Community [Rules of Engagement](https://community.sap.com/resources/rules-of-engagement) that will allow you to be active in the community without encountering issues or negative feedback when you post a question, answer, or blog post.
+> Keep in mind: To ensure harmonious interactions with each other, it is important to understand the SAP Community [Rules of Engagement](https://community.sap.com/resources/rules-of-engagement). These rules will allow you to be active in the community without encountering issues or negative feedback when you post a question, answer, or blog post.
 
 
 ### Blogging
@@ -169,13 +162,13 @@ To get full insights into the features of Blogging, watch this video.
 
 2.	Click the green **Follow** button (underneath the author's photo on a blog post).
 
-When you follow a blog post, activities related to the blog post (such as comments) will appear in your **Activity Stream**.
+When you follow a blog post, activities related to the blog post (such as comments) will appear in your [Activity Stream](https://activities.sap.com/).
 
-There is one prerequisite before you can start blogging: In order for your blogging permissions to change from **Subscriber** to **Contributor** ([learn more](https://community.sap.com/resources/blogging)), you need to receive the **Hello World** badge. You will be awarded the **Hello World** badge by performing at least one of the **`follow activities`** mentioned during the previous steps (follow person, follow tag, follow question, follow blog post). Find out more under [Missions & Badges](https://community.sap.com/resources/missions-badges). Simply log out and log back into your SAP user account from the [Blogging area](https://blogs.sap.com/) to see the changes in your blogging permissions. Go to the [Write a Blog Post](https://blogs.sap.com/wp-admin/post-new.php) page to confirm your permissions.
+There is one prerequisite before you can start blogging: In order for your blogging permissions to change from **Subscriber** to **Contributor** ([learn more](https://community.sap.com/resources/blogging)), you need to receive the **Hello World** badge. You will be awarded the **Hello World** badge by performing at least one of the **`follow activities`** mentioned during the previous steps (follow person, follow tag, follow question, follow blog post). Find out more under [Currently Available Missions and Badges](https://community.sap.com/resources/missions-badges). Simply log out and log back into your SAP user account from the [Blogging area](https://blogs.sap.com/) to see the changes in your blogging permissions. Go to the [Write a Blog Post](https://blogs.sap.com/wp-admin/post-new.php) page to confirm your permissions.
 
 If your blogging permissions haven't changed or you have other questions related to this tutorial, please contact <a href="mailto:community@sap.com">community@sap.com</a>.
 
-> Keep in mind: To ensure harmonious interactions amongst each other, it is important to understand the SAP Community [Rules of Engagement](https://community.sap.com/resources/rules-of-engagement) that will allow you to be active in the community without encountering issues or negative feedback when you post a question, answer, or blog post.
+> Keep in mind: To ensure harmonious interactions with each other, it is important to understand the SAP Community [Rules of Engagement](https://community.sap.com/resources/rules-of-engagement). These rules will allow you to be active in the community without encountering issues or negative feedback when you post a question, answer, or blog post.
 
 
 ### Events
@@ -192,15 +185,13 @@ The event listings make it easy for you to save the event to your calendar. Let 
 
   ![event_listing_attending](event_listing_attending.png)
 
-Explore a variety of different events, such as SAP Community Call, SAP CodeJam, and SAP Inside Track and indicate whether you will be attending the event. For events that you are either organising, volunteering for, speaking at, or attending, we created different generic event badges for you (depending on the role you fulfilled). Take a closer look at [Missions & Badges](https://community.sap.com/resources/missions-badges) and filter for **Event Missions**. Challenge for you: Go for our latest, most tricky event badge [SAP Community Event Explorer](https://blogs.sap.com/2022/01/18/sap-community-event-badges-whats-new-in-2022/) and be an SAP Community Event Explorer until the end of 2023!
-
-The SAP Community Calls are streaming live on YouTube. For upcoming SAP Community Calls, subscribe to the [SAP Community YouTube channel](https://www.youtube.com/channel/UC3We5qK8jkxH8yBc0SugKEQ) and set yourself a reminder in your YouTube account to not miss out. Read this [blog post](https://blogs.sap.com/2022/01/31/sap-community-calls-are-now-live-on-youtube/) to find out more.
+Explore a variety of different events, such as SAP CodeJam and SAP Inside Track sessions, and indicate whether you will be attending. For events that you are either organizing, volunteering for, speaking at, or attending, we created different generic event badges for you (depending on the role you fulfilled). Take a closer look at [Currently Available Missions and Badges](https://community.sap.com/resources/missions-badges) and filter for **Event Missions**. Challenge for you: Attend -- and write about -- multiple events for a chance to receive the [SAP Community Event Explorer](https://blogs.sap.com/2022/01/18/sap-community-event-badges-whats-new-in-2022/) badge!
 
 
 ### Your Reputation
 
 
-SAP Community is a place for you to develop as a professional, build valuable connections with SAP Community members, and grow your reputation as an expert. The more active and engaged you are, the more your activities get reflected in your profile's [Reputation section](https://people.sap.com/#reputation). For various areas in SAP Community you will receive badges for participation. Learn more under [Missions & Badges](https://community.sap.com/resources/missions-badges).
+SAP Community is a place for you to develop as a professional, build valuable connections with SAP Community members, and grow your reputation as an expert. The more active and engaged you are, the more your activities get reflected in your profile's [Reputation section](https://people.sap.com/#reputation). For various areas in SAP Community you will receive badges for participation. Learn more under [Currently Available Missions and Badges](https://community.sap.com/resources/missions-badges).
 
 To get full insights on the features of Reputation, watch this video.
 
