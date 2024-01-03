@@ -9,7 +9,7 @@ author_profile: https://github.com/workjerryjanda
 ---
 
 # Tour the SAP Community 2024
-<!-- description --> Explore the various features, functionality, and aspects of the SAP Community, familiarize yourself with community guidelines, discover how to get the most out of your membership, and earn the Tour the Community badge.
+<!-- description --> Explore the various features, functionality, and aspects of the SAP Community, familiarize yourself with community guidelines, and discover how to get the most out of your membership.
 
 ## Prerequisites
  - If you do not already have an SAP user account and profile, [register for an account](https://accounts.sap.com/ui/public/showRegisterForm?spName=https%3A%2F%2Fhana.ondemand.com%2Fskywalker).
@@ -22,16 +22,16 @@ author_profile: https://github.com/workjerryjanda
   - About questions and blog posts
 
 ## Intro
-Please note that our goal is to maintain a new version of the tutorial each year as we move forward to ensure everyone has a chance to explore all the new things coming to the platform. With the completion of the tutorial, you will receive the Tour the SAP Community 2024 badge! 
+Please note that our goal is to maintain a new version of the tutorial each year as we move forward to ensure everyone has a chance to explore all the new things coming to the platform.
 
-SAP Community is SAP's destination for all things community. Our community hosts multiple areas for partners and customers, primarily providing public content accessible to visitors. Originally launched in 2003 as the SAP Developer Netowrk (SDN), the site has progressed over the years and is now simply known as SAP Community, delivering a wealth of knowledge about all aspects of SAP technology, services, and products. 
+SAP Community is SAP's destination for all things community. Our community hosts multiple areas for partners and customers, primarily providing public content accessible to visitors. Originally launched in 2003 as the SAP Developer Network (SDN), the site has progressed over the years and is now simply known as SAP Community, delivering a wealth of knowledge about all aspects of SAP technology, services, and products. 
 
 ---
 
 ### Set your display name
 
 
-In order to participate fully in the SAP Community, you need to set your display name once you have registered avia the SAP Universal ID process.
+In order to participate fully in the SAP Community, you need to set your display name once you have registered via the SAP Universal ID process.
 
 <!-- border -->![community](tutorial_tour_1.png)
 
@@ -104,7 +104,7 @@ We have a wide selection of groups to choose from. Feel free to explore and join
 
 We have a dedicated space for new information related to the SAP Community, new groups being added, new features and functionalities, and so on. Your next quick step into the community is around your subscriptions.
 
-Head over to the [What's New](https://groups.community.sap.com/t5/what-s-new/bg-p/whats-new) area and there you will see the **"options"** on the right hand side and select **Subscribe**.
+Head over to the [What's New](https://groups.community.sap.com/t5/what-s-new/bg-p/whats-new) area and there you will see **Options** on the right-hand side. Click that and select **Subscribe**.
 
 <!-- border -->![subscribe](tutorial_tour_9.png)
 
@@ -131,4 +131,3 @@ Our blogging areas may also be the destination of choice for learning about topi
 ### Next Steps
 
 We believe that community is for everyone, and we welcome you to ours! We are here to help you on your learning journey!
-
