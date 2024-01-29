@@ -22,7 +22,7 @@ author_profile: https://github.com/workjerryjanda
   - About questions and blog posts
 
 ## Intro
-Please note that our goal is to maintain a new version of the tutorial each year as we move forward to ensure everyone has a chance to explore all the new things coming to the platform.
+Please note that our goal is to maintain a new version of the tutorial each year as we move forward to ensure everyone has a chance to explore all the new things coming to the platform. 
 
 SAP Community is SAP's destination for all things community. Our community hosts multiple areas for partners and customers, primarily providing public content accessible to visitors. Originally launched in 2003 as the SAP Developer Network (SDN), the site has progressed over the years and is now simply known as SAP Community, delivering a wealth of knowledge about all aspects of SAP technology, services, and products. 
 
