@@ -36,7 +36,7 @@ In order to participate fully in the SAP Community, you need to set your display
 
 <!-- border -->![community](tutorial_tour_1.png)
 
-Your display name is what all other members can see when you post comments, ask questions, or write blog posts. The name should be professional, unique, and appropriate. For example if your name is "Sally Smith," you could use "sally.smith," "sallysmith," "sallys," "ssmith," or (perhaps your are lucky and no one has already claimed it) "sally."
+Your display name is what all other members can see when you post comments, ask questions, or write blog posts. The name should be professional, unique, and appropriate. For example if your name is "Sally Smith," you could use "sallysmith," "sallys," "ssmith," or (perhaps your are lucky and no one has already claimed it) "sally."
 
 Please do not use your login ID, email address, your company name, or a series of numbers or letters.
 
