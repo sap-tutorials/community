@@ -32,21 +32,29 @@ SAP Community is SAP's destination for all things community. Our community hosts
 
 ### Set your display name
 
-In order to participate fully in the SAP Community, you need to set your display name once you have registered via the SAP Universal ID process.
+In order to participate fully in the SAP Community, you’ll need to add a display name during the SAP Universal ID registration process.
 
-Your display name is what all other members can see when you post comments, ask questions, or write blog posts. The name should be professional, unique, and appropriate. For example if your name is "Sally Smith," you could use "sally.smith," "sallysmith," "sallys," "ssmith," or (perhaps your are lucky and no one has already claimed it) "sally."
+Your display name is what all other members can see when you post comments, ask questions, or write blog posts. The name should be professional, unique, and appropriate. For example if your name is "Sally Smith," you could use "sallysmith," "sallys," "ssmith," or (perhaps you're lucky and no one has already claimed it) "sally."
 
-1. From any page on SAP Community, click on the avatar icon and select `Settings`.
+1. Start the registration process via [SAP Universal ID Registration](https://account.sap.com/core/create/register).
+2. Add your SAP Community display name in the “Username” field.
    
     <!-- border -->
-    ![Access Profile](change-display-name-1.png)
+    ![Registration](registration.png)
 
-2. Navigate to the `Personal` tab and then `Display Name`.
+If you already have an SAP Universal ID, you can go directly to the SAP Universal ID account manager to add a username (if the field is blank) or change your username.
+
+1. Sign in to SAP Universal ID account manager at [SAP Universal ID Sign In](https://account.sap.com/).
+2. Select [Edit]
+
    
     <!-- border -->
-    ![Change display name](change-display-name-3.png)
+    ![My Account](account.png)
 
-3. Enter a display name in the text box and select `Change display name` to save the name.
+3.  Enter or change the display name in the “Username” field, then click [Save].
+
+    <!-- border -->
+    ![Save](save.png)
 
 Please do not use your user ID, email address, your company name, the SAP name/brand, or a series of numbers or letters.  However, we encourage SAP Community members to use their real names.
 
