@@ -193,7 +193,7 @@ It is easy to answer a question.  On any question, just select the `Answer` butt
 
 >If you ask a question, please mark an answer as an accepted solution to your question.  This gives weight to the answer and helps others identify a solution for their problem quicker.  It also provides meaningful feedback and recognition to the person who took the time to provide an answer.  Remember to thank them as well!
 
-When community members answer one of your questions, you can choose the answer you think are the most useful, helpful, or accurate and mark them as a solution.  While it is possible for `Active Contributors`, `Product and Topic Experts`, and `Global Moderators` to accept a solution, the best practice is for the question author to accept a solution because the author can test and verify the proposed solution.
+When community members answer one of your questions, you can choose the answer you think are the most useful, helpful, or accurate and mark them as a solution.  While it is possible for `Product and Topic Experts`, and `Community Managers` to accept a solution, the best practice is for the question author to accept a solution because the author can test and verify the proposed solution.
 
 To **accept** an answer to a question:
 
