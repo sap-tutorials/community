@@ -4,8 +4,8 @@ auto_validation: true
 time: 25  
 tags: [  tutorial>beginner, topic>sap-community  ]
 primary_tag: topic>sap-community
-author_name: Joshua Margo
-author_profile: https://github.com/jmmargo
+author_name: Jim Jaquet
+author_profile: https://github.com/akula86
 ---
 
 # Tour the SAP Community
