@@ -125,7 +125,7 @@ Your first step whenever you come some place new is to introduce yourself. We ju
 
 Once there you can choose to `Join Group`.
 
-Now that you have "joined" the group, you are able to contribute to the conversations within that particular group, so why not take a [quick moment](https://community.sap.com/t5/welcome-corner-blog-posts/welcome-all-sap-community-members-start-here/ba-p/5359) to say hello. As previously noted, joining a group and saying hello will help you move up the rank ladder so you can participate in blogging.
+Now that you have "joined" the group, you are able to contribute to the conversations within that particular group, so why not take a [quick moment](https://community.sap.com/t5/welcome-corner-blog-posts/welcome-all-sap-community-members-start-here/ba-p/5359) to say hello. As previously noted, joining a group and saying hello will help you move up the rank ladder so you can participate in blogging. If you’re new to SAP Community, don’t be alarmed if it takes a few hours before your reply appears in the group. As a new member, you will need to go through pre-moderation when posting questions, answers, discussions, and comments. .
 
 We have a wide selection of groups to choose from. Feel free to explore and join others.
 
@@ -157,7 +157,7 @@ The SAP Community thrives when every member is active and engaged. Here are some
 
 ![subscribe button](easy-subscribe.png)
 
-This will now keep you informed whenever we send out updates.
+This will now keep you informed whenever we send out updates. Please remember that comments, answers, discussions, and questions from newer members will go through pre-moderation.
 
 ### Know when the next events are happening
 
@@ -197,6 +197,7 @@ If you are unable to find the answer, navigate to the relevant **Product and Tec
 ![questions](tutorial_tour_11.png)
 
 It is easy to answer a question. On any question, just select the `Answer` button. However, do not use this to submit a comment or clarifying question. For those, use the `Comment` button.
+Please remember that comments, answers, discussions, and questions from newer members will go through pre-moderation. Pre-moderation can take up to two hours, Monday through Friday. If you submit a question or answer on a Saturday or Sunday, it will go through pre-moderation on Monday.
 
 <!-- border -->
 
@@ -237,7 +238,7 @@ Additional points to keep in mind when starting your blogging journey.
 - A blog post is not a tutorial. A blog post can reference a tutorial but should not be the tutorial itself.
 - In this case, a tutorial and "how to" are similar.
 
-Please familiarize yourself with the unacceptable content guidelines in the Rules of Engagement, Article IV, then answer the following.
+Please familiarize yourself with the Article 4: Unacceptable Content in the Rules of Engagement, then answer the following.
 
 ### Get to know the blogging tool
 
@@ -307,7 +308,7 @@ When preparing a blog post, you should write in your voice -- so that you can es
 
 Reviewing our content, we have found that blog posts following a three-act structure -- with a clear introduction, body, and conclusion -- ensure the best readability. These posts perform better and draw more readers compared to posts without this structure.
 
-Finally, once you've published your blog post, you have the opportunity to promote it and interact with your audience. If your post does well, there is a chance that it may be featured within the site or social media. In those cases, a cover photo may be added if one does not exist. (If you add a cover photo yourself, please ensure that its dimensions are 600 x 420 pixels.)
+Finally, once you've published your blog post, you have the opportunity to promote it and interact with your audience. If your post does well, there is a chance that it may be featured within the site or social media. In those cases, a cover photo may be added if one does not exist. (If you add a cover photo yourself, please ensure that its dimensions are 356 x 200 pixels.)
 
 <!-- border -->
 
