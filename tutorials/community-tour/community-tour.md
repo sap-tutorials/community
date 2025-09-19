@@ -101,11 +101,11 @@ This step covers **Article 1: Participation Etiquette** of the Rules of Engageme
 
 Understanding the [SAP Community Rules of Engagement](https://community.sap.com/resources/rules-of-engagement) will allow you to be active in the community without encountering issues or negative feedback when you post a question, answer, or blog post. For example, when you try to publish a blog post, if you have not read the Rules of Engagement, the publishing process may be postponed because the blog post does not follow the Rules of Engagement.
 
-This step covers **Article 4: Unacceptable Content** of the Rules of Engagement.
+This step covers **Article 3: Unacceptable Content** of the Rules of Engagement.
 
-1. Read the details in **Article 4: Unacceptable Content**.
+1. Read the details in **Article 3: Unacceptable Content**.
 
-2. Answer the following question:
+i. Answer the following question:
 
 ### Join a group and introduce yourself
 
@@ -238,7 +238,7 @@ Additional points to keep in mind when starting your blogging journey.
 - A blog post is not a tutorial. A blog post can reference a tutorial but should not be the tutorial itself.
 - In this case, a tutorial and "how to" are similar.
 
-Please familiarize yourself with the Article 4: Unacceptable Content in the Rules of Engagement, then answer the following.
+Please familiarize yourself with the Article 3: [Unacceptable Content in the Rules of Engagement](https://pages.community.sap.com/resources/rules-of-engagement), then answer the following.
 
 ### Get to know the blogging tool
 
