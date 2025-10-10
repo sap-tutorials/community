@@ -229,7 +229,7 @@ You should always keep the following guidelines in mind when writing for the SAP
 
 - Apply the right structure: We expect every blog post to consist of a beginning (introduction), a middle (main portion), and an end (a conclusion that wraps everything up). A collection of links or just a video with short text **does not qualify as a blog post**.
 - Write with the proper style, in your unique voice: We recommend a conversational writing style that is clear and easily understood. Ideally, a blog post **should reflect the author's unique voice**.
-- If you want to publish content that was helped/created by GenAI, you must add the [user tag](https://community.sap.com/t5/help/faqpage/title/tagging) GenAI Assisted Content.
+- If you want to publish content that was created with the assistance of generative AI, you must follow the policies provided in the ["Guidelines for content created with generative AI”](https://community.sap.com/t5/welcome-corner-knowledge-base/guidelines-for-content-created-with-generative-ai/ta-p/14238551).
 
 Additional points to keep in mind when starting your blogging journey.
 
