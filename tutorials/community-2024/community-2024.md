@@ -34,7 +34,7 @@ SAP Community is SAP's destination for all things community. Our community hosts
 
 In order to participate fully in the SAP Community, you need to set your display name once you have registered via the SAP Universal ID process.
 
-<!-- border -->![community](tutorial_tour_1.png)
+![community](tutorial_tour_1.png)
 
 Your display name is what all other members can see when you post comments, ask questions, or write blog posts. The name should be professional, unique, and appropriate. For example if your name is "Sally Smith," you could use "sallysmith," "sallys," "ssmith," or (perhaps your are lucky and no one has already claimed it) "sally."
 
@@ -46,14 +46,14 @@ Please do not use your login ID, email address, your company name, or a series o
 
 Notifications can let you know when something happens related to your published questions, blog posts, replies, comments, or around the topics you find interesting. The platform offers an extensive ability to fine-tune your notifications to meet your needs.
 
-<!-- border -->![communications](tutorial_tour_2.png)
-<!-- border -->![communications](tutorial_tour_3.png)
-<!-- border -->![communications](tutorial_tour_4.png)
-<!-- border -->![communications](tutorial_tour_5.png)
+![communications](tutorial_tour_2.png)
+![communications](tutorial_tour_3.png)
+![communications](tutorial_tour_4.png)
+![communications](tutorial_tour_5.png)
 
 Go to [My settings](https://community.sap.com/t5/user/myprofilepage/tab/personal-profile) (accessible by clicking your avatar in the upper right and selecting "Settings"), select **Subscriptions & Notifications**, and choose which notifications you would like to receive.
 
-<!-- border -->![communications](tutorial_tour_6.png)
+![communications](tutorial_tour_6.png)
 
 **Note:** While there, be sure to select your default time zone under the **Preferences** tab.
 
@@ -90,17 +90,17 @@ Now that you have yourself sorted, you are ready to start taking full advantage 
 
 Your first step whenever you come some place new is to introduce yourself. We just so happen to have the perfect place for that!
 
-<!-- border -->![welcome](tutorial_tour_7.png)
+![welcome](tutorial_tour_7.png)
 
 Once there you can choose to "join" the group.
 
-<!-- border -->![join](tutorial_tour_8.png)
+![join](tutorial_tour_8.png)
 
 Now that you have "joined" the group, you are able to contribute to the conversations within that particular group, so why not take a [quick moment](https://community.sap.com/t5/welcome-corner-blog-posts/welcome-all-sap-community-members-start-here/ba-p/5359) to say hello.  By taking this quick and easy step, you'll already receive a special thank you from the SAP Community. And, as previously noted, joining a group and saying hello will help you move up the rank ladder so you can participate in blogging.
 
 We have a wide selection of groups to choose from. Feel free to explore and join others.
 
-<!-- border -->![join](tutorial_tour_13.png)
+![join](tutorial_tour_13.png)
 
 
 ### Staying up to date
@@ -109,7 +109,7 @@ We have a dedicated space for new information related to the SAP Community, new 
 
 Head over to the [What's New](https://community.sap.com/t5/what-s-new/bg-p/whats-new) area and there you will see **Options** on the right-hand side. Click that and select **Subscribe**.
 
-<!-- border -->![subscribe](tutorial_tour_9.png)
+![subscribe](tutorial_tour_9.png)
 
 This will now keep you informed whenever we send out updates.
 
@@ -117,7 +117,7 @@ This will now keep you informed whenever we send out updates.
 
 We have a dedicated section allowing you to **subscribe** to [events](https://community.sap.com/t5/events/ct-p/events). You can RSVP, comment, and even watch livestreams.
 
-<!-- border -->![events](tutorial_tour_10.png)
+![events](tutorial_tour_10.png)
 
 Here you can view things in either a list view or a calendar view, filter, subscribe, and more.
 
@@ -125,11 +125,11 @@ Here you can view things in either a list view or a calendar view, filter, subsc
 
 With a wealth of knowledge already available, our Q&A areas can provide you with the answers you need. If you can't find an answer though, you can simply ask your question directly.
 
-<!-- border -->![questions](tutorial_tour_11.png)
+![questions](tutorial_tour_11.png)
 
 Our blogging areas may also be the destination of choice for learning about topics and how others have been working with various products and technology. You can share your own knowledge here as well.
 
-<!-- border -->![blogging](tutorial_tour_12.png)
+![blogging](tutorial_tour_12.png)
 
 ### Authoring blog posts
 
@@ -142,7 +142,7 @@ The next several steps will help you prepare and manage your blog posts on SAP C
 
 The SAP Community is an inclusive environment that has multiple personas, roles, and types of users, so it is important to us that you are familiar with our own blogging guidelines and Rules of Engagement. Blogging and community are not new topics, and each destination on the internet has its own variations. SAP Community is no different. You should have read our [Rules of Engagement](https://community.sap.com/resources/rules-of-engagement) earlier, but please be sure to review our terms before continuing. 
 
-<!-- border -->![Rules of Engagement](tutorial_blogging_1.png)
+![Rules of Engagement](tutorial_blogging_1.png)
 
 Additional points to keep in mind when starting your blogging journey. 
 
@@ -158,33 +158,33 @@ Please familiarize yourself with the Rules of Engagement, then answer the follow
 
 To submit your blog post, you will first need to decide the appropriate spot within the community for your post. Is it a group? Or one of our product-related areas?
 
-<!-- border -->![locations](tutorial_blogging_2.png)
+![locations](tutorial_blogging_2.png)
 
 For the purposes of this tutorial, we will assume you are selecting an area within the **Products and Technology** section for your blog post. Each area is set up in a similar manner. 
 
-<!-- border -->![boards](tutorial_blogging_3.png)
+![boards](tutorial_blogging_3.png)
 
 As an SAP employee, you should select the "Blogs by SAP" section. If you aren't an employee, you should select "Blogs by Members." Once you've made the appropriate selection, you should click **Create a Blog Post**, which then opens the blogging tool.
 
-<!-- border -->![boards](tutorial_blogging_4.png)
+![boards](tutorial_blogging_4.png)
 
 The primary elements of the blogging tool can easily be broken down into these three sections: "Title," "Teaser," and "Body"
 
 The title should be something readable by the user and easily understood. Avoid clickbait titles as the SAP Community audience avoids those posts.
 
-<!-- border -->![boards](tutorial_blogging_7.png)
+![boards](tutorial_blogging_7.png)
 
 The "Teaser" is optional and can be skipped. If you choose to use it though, this can be something catchy or central to your post that you can add or copy and paste in to help readers decide if they would like to open your post.
 
-<!-- border -->![boards](tutorial_blogging_8.png)
+![boards](tutorial_blogging_8.png)
 
 And finally the "Body" is the heart of your post and contains the primary information.
 
-<!-- border -->![boards](tutorial_blogging_9.png)
+![boards](tutorial_blogging_9.png)
 
 If you need a bigger window to work in, you can click and drag the symbol in the bottom right corner to enlarge the area.
 
-<!-- border -->![boards](tutorial_blogging_10.png)
+![boards](tutorial_blogging_10.png)
 
 Please familiarize yourself with the tool and the advice above, then answer the following.
 
@@ -192,13 +192,13 @@ Please familiarize yourself with the tool and the advice above, then answer the 
 
 Once you decide where you will write, you'll need to select tags that match the topics that your blog post covers. Please read the **SAP Managed Tags** section of the [Help](https://community.sap.com/t5/help/faqpage/title/Associated_Products) page to learn more.
 
-<!-- border -->![tags](tutorial_blogging_5.png)
+![tags](tutorial_blogging_5.png)
 
 You must enter at least one SAP Managed Tag.
 
 There are also article tags that allow you to further refine your content with additional meta information. These are free-form tags and should be used with consideration for the reader and how they would interpret the terms.
 
-<!-- border -->![article tags](tutorial_blogging_6.png)
+![article tags](tutorial_blogging_6.png)
 
 ### Know your audience
 
@@ -210,7 +210,7 @@ Reviewing our content, we have found that blog posts following a three-act struc
 
 Finally, once you've published your blog post, you have the opportunity to promote it and interact with your audience. If your post does well, there is a chance that it may be featured within the site or social media. In those cases, a cover photo may be added if one does not exist. (If you add a cover photo yourself, please ensure that its dimensions are 600 x 420 pixels.)
 
-<!-- border -->![article tags](tutorial_blogging_11.png)
+![article tags](tutorial_blogging_11.png)
 
 ### One last thing about blogging
 
@@ -220,7 +220,7 @@ Also please keep in mind that new bloggers may have their posts go through moder
 
 If your post needs to go through moderation, please note that the moderation team may require up to **five business days** to conduct each review.
 
-<!-- border -->![article tags](tutorial_blogging_12.png)
+![article tags](tutorial_blogging_12.png)
 
 ### Final thoughts about SAP Community
 

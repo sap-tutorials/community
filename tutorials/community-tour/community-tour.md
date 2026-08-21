@@ -42,8 +42,6 @@ Your display name is what all other members can see when you post comments, ask 
 1. Start the registration process via [SAP Universal ID Registration](https://account.sap.com/core/create/register).
 2. Add your SAP Community display name in the “Username” field.
 
-   <!-- border -->
-
    ![Registration](registration.png)
 
 If you already have an SAP Universal ID, you can go directly to the SAP Universal ID account manager to add a username (if the field is blank) or change your username.
@@ -51,13 +49,9 @@ If you already have an SAP Universal ID, you can go directly to the SAP Universa
 1. Sign in to SAP Universal ID account manager at [SAP Universal ID Sign In](https://account.sap.com/).
 2. Select [Edit]
 
-   <!-- border -->
-
    ![My Account](account.png)
 
 3. Enter or change the display name in the “Username” field, then click [Save].
-
-   <!-- border -->
 
    ![Save](save.png)
 
@@ -69,19 +63,11 @@ Notifications can let you know when something happens related to your published 
 
 Go to [My settings](https://community.sap.com/t5/user/myprofilepage/tab/personal-profile) (accessible by clicking your avatar in the upper right and selecting `Settings`), select **Subscriptions & Notifications**, and choose which notifications you would like to receive.
 
-<!-- border -->
-
 ![communications](change-display-name-1.png)
-
-<!-- border -->
 
 ![Navigate to Notification Settings](notifications-1.png)
 
-<!-- border -->
-
 ![Notification general settings](notifications-general.png)
-
-<!-- border -->
 
 ![Notification email settings](notifications-email.png)
 
@@ -119,8 +105,6 @@ Groups can include discussions, Q&A, blog posts, and/or a knowledge base, depend
 
 Your first step whenever you come some place new is to introduce yourself. We just so happen to have the perfect place for that: The [Welcome Corner](https://community.sap.com/t5/welcome-corner/gh-p/welcome-corner)!
 
-<!-- border -->
-
 ![welcome](welcome-corner.png)
 
 Once there you can choose to `Join Group`.
@@ -129,8 +113,6 @@ Now that you have "joined" the group, you are able to contribute to the conversa
 
 We have a wide selection of groups to choose from. Feel free to explore and join others.
 
-<!-- border -->
-
 ![Community groups](community-groups.png)
 
 ### Stay up to date
@@ -138,8 +120,6 @@ We have a wide selection of groups to choose from. Feel free to explore and join
 We have a dedicated space for new information related to the SAP Community, new groups being added, new features, functionalities, and so on. Your next quick step into the community is around your subscriptions.
 
 Head over to the [What's New](https://community.sap.com/t5/what-s-new/bg-p/whats-new) area and there you will see **Options** on the right-hand side. Click that and select **Subscribe**.
-
-<!-- border -->
 
 ![subscribe](group-options.png)
 
@@ -153,8 +133,6 @@ The SAP Community thrives when every member is active and engaged. Here are some
 4. **Answer** questions asked
 5. **Like** (Kudos) and/or **Subscribe** to blog posts, discussions, and events.
 
-<!-- border -->
-
 ![subscribe button](easy-subscribe.png)
 
 This will now keep you informed whenever we send out updates. Please remember that comments, answers, discussions, and questions from newer members will go through pre-moderation.
@@ -163,13 +141,9 @@ This will now keep you informed whenever we send out updates. Please remember th
 
 We have a dedicated section allowing you to **subscribe** to [events](https://community.sap.com/t5/events/ct-p/events). You can RSVP, comment, and even watch livestreams.
 
-<!-- border -->
-
 ![events](nav-to-events.png)
 
 Here you can view things in either a list view or a calendar view, filter, subscribe, and more.
-
-<!-- border -->
 
 ![subscribe](subscribe-to-events.png)
 
@@ -179,8 +153,6 @@ With a wealth of knowledge already available, our Q&A areas can provide you with
 
 > Always try searching the community first before asking a question. There is a good chance it has already been asked and answered. Just enter the question or keywords in the search box on the SAP Community home page.
 
-<!-- border -->
-
 ![question search](search-community.png)
 
 If you are unable to find the answer, navigate to the relevant **Product and Technology** category and select the tile for **Q&A**.
@@ -188,18 +160,12 @@ If you are unable to find the answer, navigate to the relevant **Product and Tec
 > If you need to create a new question, start with a descriptive title that outlines what your question is about. A clear question title will help community members gain a quick initial understanding of your question. It will also help community members find your question (and its answers) when they are searching for solutions to similar problems.
 > When writing your question, please share what steps you took that led you to your question. Make sure that your question is **very specific**. Provide as many details as you can -- such as which product version you are using and what error message you're receiving. Include screenshots if possible. For more help on all things related to Q&A, please refer to the [Q&A section](https://community.sap.com/t5/help/faqpage/title/qa) or our FAQs.
 
-<!-- border -->
-
 ![select Q&A tile](select-qa.png)
-
-<!-- border -->
 
 ![questions](tutorial_tour_11.png)
 
 It is easy to answer a question. On any question, just select the `Answer` button. However, do not use this to submit a comment or clarifying question. For those, use the `Comment` button.
 Please remember that comments, answers, discussions, and questions from newer members will go through pre-moderation. Pre-moderation can take up to two hours, Monday through Friday. If you submit a question or answer on a Saturday or Sunday, it will go through pre-moderation on Monday.
-
-<!-- border -->
 
 ![Answer Question](answer-question.png)
 
@@ -244,19 +210,13 @@ Please familiarize yourself with the Article 3: [Unacceptable Content in the Rul
 
 To submit your blog post, you will first need to decide the appropriate spot within the community for your post. Is it a group? Or one of our product-related areas?
 
-<!-- border -->
-
 ![locations](pandt-blogs.png)
 
 For the purposes of this tutorial, we will assume you are selecting an area within the **Products and Technology** section for your blog post. Each area is set up in a similar manner.
 
-<!-- border -->
-
 ![boards](tutorial_blogging_3.png)
 
 As an SAP employee, you should select the "Blogs by SAP" section. If you aren't an employee, you should select "Blogs by Members." Once you've made the appropriate selection, you should click **Create a Blog Post**, which then opens the blogging tool.
-
-<!-- border -->
 
 ![boards](tutorial_blogging_4.png)
 
@@ -264,25 +224,17 @@ The primary elements of the blogging tool can easily be broken down into these t
 
 The title should be something readable by the user and easily understood. Avoid clickbait titles as the SAP Community audience avoids those posts.
 
-<!-- border -->
-
 ![boards](tutorial_blogging_7.png)
 
 The "Teaser" is optional and can be skipped. If you choose to use it though, this can be something catchy or central to your post that you can add or copy and paste in to help readers decide if they would like to open your post.
-
-<!-- border -->
 
 ![boards](tutorial_blogging_8.png)
 
 And finally the "Body" is the heart of your post and contains the primary information.
 
-<!-- border -->
-
 ![boards](tutorial_blogging_9.png)
 
 If you need a bigger window to work in, you can click and drag the symbol in the bottom right corner to enlarge the area.
-
-<!-- border -->
 
 ![boards](tutorial_blogging_10.png)
 
@@ -292,13 +244,13 @@ Please familiarize yourself with the tool and the advice above, then answer the 
 
 Once you decide where you will write, you'll need to select tags that match the topics that your blog post covers. Please read the **SAP Managed Tags** section of the [Help](https://community.sap.com/t5/help/faqpage/title/Associated_Products) page to learn more.
 
-<!-- border -->![tags](tutorial_blogging_5.png)
+![tags](tutorial_blogging_5.png)
 
 You must enter at least one SAP Managed Tag.
 
 There are also article tags that allow you to further refine your content with additional meta information. These are free-form tags and should be used with consideration for the reader and how they would interpret the terms.
 
-<!-- border -->![article tags](tutorial_blogging_6.png)
+![article tags](tutorial_blogging_6.png)
 
 ### Know your audience
 
@@ -310,8 +262,6 @@ Reviewing our content, we have found that blog posts following a three-act struc
 
 Finally, once you've published your blog post, you have the opportunity to promote it and interact with your audience. If your post does well, there is a chance that it may be featured within the site or social media. In those cases, a cover photo may be added if one does not exist. (If you add a cover photo yourself, please ensure that its dimensions are 356 x 200 pixels.)
 
-<!-- border -->
-
 ![article tags](tutorial_blogging_11.png)
 
 ### One last thing about blogging
@@ -322,7 +272,7 @@ Also please keep in mind that new bloggers may have their posts go through moder
 
 If your post needs to go through moderation, please note that the moderation team may require up to **five business days** to conduct each review.
 
-<!-- border -->![article tags](tutorial_blogging_12.png)
+![article tags](tutorial_blogging_12.png)
 
 ### Final thoughts about SAP Community
 
